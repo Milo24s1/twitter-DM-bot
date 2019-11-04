@@ -1,0 +1,7 @@
+{
+   "access_token":"<PUT_YOUR_ACCESS_TOKEN>",
+   "access_token_secret":"<PUT_YOUR_ACCESS_TOKEN_SECRET>",
+   "target_account_screen_name":"<PUT_YOUR_TARGET_ACCOUNT_SCREEN_NAME>",
+   "consumer_key":"<PUT_YOUR_CONSUMER_KEY>",
+   "consumer_secret":"<PUT_YOUR_CONSUMER_SECRET>"
+}
